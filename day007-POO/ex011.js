@@ -3,9 +3,8 @@ class Planner {
         this.name = name;
         this.age = age;
         this.height = height;
+        this.plannerArr = [];
     }
-
-    plannerArr = [];
 
     savePerson(name, age, height) {
         const newPerson = {
