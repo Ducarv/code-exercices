@@ -1,6 +1,3 @@
-// Intermediário 13. Faça um procedimento que recebe 3 valores
-// inteiros por parâmetro e retorna-os ordenados em ordem crescente.
-
 const sortElements = (a, b, c) => {
     let maior = 0;
     let menor = 0;

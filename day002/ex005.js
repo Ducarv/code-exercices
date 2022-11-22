@@ -1,5 +1,3 @@
-// Fácil 5. Leia um vetor de 40 posições. Contar e escrever quantos valores pares ele possui.
-
 const testArr = 
 [
     1, 2, 3, 4, 5, 6, 7, 8, 9, 10,

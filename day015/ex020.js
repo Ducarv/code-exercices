@@ -1,6 +1,3 @@
-// Intermediário 31- Faça um programa que receba várias idades e que calcule e mostre
-// a média das idades digitadas. Finalize digitando idade igual a zero.  
-
 const agesArr = [15, 12, 23, 21, 22, 35, 41, 56];
 
 const ageAvarage = ages => {

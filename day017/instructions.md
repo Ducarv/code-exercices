@@ -1,0 +1,1 @@
+Intermediário 18. Faça um Programa que peça um número inteiro e determine se ele e par ou ímpar. 

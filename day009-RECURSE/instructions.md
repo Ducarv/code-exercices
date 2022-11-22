@@ -1,0 +1,1 @@
+1) Escreva um algoritmo recursivo que retorna no terminal a multiplicação de dois valores, e vai subtraindo um em cada valor;

@@ -1,5 +1,4 @@
-// Intermediário 7. Leia dois vetores de 20 posições e calcule um terceiro vetor contendo, 
-// nas posições pares os valores do primeiro e nas posições impares os valores do segundo.
+
 
 const firstArr = [7, 17, 27, 37, 47, 57];
 const secondArr = [9, 19, 29, 39, 49, 59];

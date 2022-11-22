@@ -1,5 +1,3 @@
-//  Intermediário 18. Faça um Programa que peça um número inteiro e determine se ele e par ou ímpar. 
-
 const evenOrOdd = num => {
     if(num % 2 === 0) {
         return `${num} is even`;

@@ -1,0 +1,1 @@
+Calcular a soma dos dígitos de um número. Dado um número qualquer, calcule a soma dos dígitos;

@@ -1,5 +1,3 @@
-//Calcular a soma dos dígitos de um número. Dado um número qualquer, calcule a soma dos dígitos:
-
 function sumOfDigits(num) {
     if(num === 0) {
         return 0;

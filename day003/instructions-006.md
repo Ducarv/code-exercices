@@ -1,0 +1,1 @@
+Fácil 6. Leia um vetor de 40 posições e atribua valor 0 para todos os elementos que possuírem valores negativos.

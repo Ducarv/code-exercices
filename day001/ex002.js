@@ -1,4 +1,3 @@
-//Fácil 2. Declare um vetor de 10 posições e o preencha com os 10 primeiros números impares e o escreva.
 const arr = []; // 1, 3, 5, 7,
 let num = 0;
 
