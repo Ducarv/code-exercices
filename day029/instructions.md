@@ -1,0 +1,1 @@
+Crie uma função onde ela verifica uma “string” e a deixa com letras maiúsculas.
